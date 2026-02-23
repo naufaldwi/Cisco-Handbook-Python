@@ -88,6 +88,6 @@ with st.sidebar:
     st.metric("Deployment Speed", "90% Faster")
     st.metric("Standardization", "Verified")
     st.divider()
-    st.write("**Scenario Demo Anda:**")
+    st.write("**Scenario:**")
     st.info(f"Modul: {template_name}")
     st.caption("Fokus pada kemudahan konfigurasi AP Catalyst di lapangan.")
